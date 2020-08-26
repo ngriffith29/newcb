@@ -92,7 +92,7 @@ let handleIssues = (event) => {
                 </Input>
                 </FormGroup>
 
-                <Button type="submit" color="primary">Submit and get grab new Chromebook</Button>
+                <Button type="submit" color="primary">Submit and get new Chrome</Button>
 
             </Form>
         </div>

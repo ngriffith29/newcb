@@ -22,7 +22,7 @@ function Home() {
         <hr className="my-2" />
        
         <p className="lead">
-        <Link to='/broken'>         <Button color="primary">Learn More</Button> </Link>
+        <Link to='/broken'>         <Button color="primary">Click Here to start</Button> </Link>
  
         </p>
       </Jumbotron>

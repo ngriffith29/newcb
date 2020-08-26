@@ -16,5 +16,9 @@
 }
 
 form {
+    background-color: #dfe6e9;
+    padding: 2%;
     width: 30%;
+    border: solid black 1px;
+
 }
